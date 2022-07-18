@@ -1,8 +1,14 @@
-.mainNavbar {
+.para {
+    /* width: 100%;
+    height: 70px; */
+    background-color: #167a92;
+    /* margin-top: 0; */
+}
+/* .mainNavbar {
     background-color: #fdfdf8;
     position: relative;
     
-}
+} */
 .navTop {
     display: flex;
     justify-content: end;
@@ -89,4 +95,9 @@
     text-decoration: none;
     cursor: pointer;
     color: #141414;
+}
+
+img {
+    width: 200px;
+    height: 45px;
 }
