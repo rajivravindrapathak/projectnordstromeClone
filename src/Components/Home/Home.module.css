@@ -1,0 +1,38 @@
+.Div1 > img {
+    border-radius: 8px;
+}
+
+.Div2 {
+    margin: 2%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 15px;
+}
+
+.Div2 > img {
+    margin: 0.5%;
+    /* cursor: pointer; */
+}
+
+.Div3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1%;
+}
+
+.Div3 > div > img {
+    border-radius: 8px;
+}
+
+.Div4 {
+    display: flex;
+    margin: 1%;
+}
+.Div4 > div {
+    margin: 0.5%;
+}
+.Div4 > div > img {
+    width: 250px;
+    height: 250px;
+    
+}
